@@ -1,4 +1,4 @@
-Cat Image Gallery with Infinite Scrolling
+#Cat Image Gallery with Infinite Scrolling
 
   This is a simple React web application that fetches images of cats from the Cat API and displays them in a sleek, responsive gallery. The key feature of the website is       infinite scrolling, where new cat images are continuously loaded as the user scrolls down and reaches the end of the page.
 
